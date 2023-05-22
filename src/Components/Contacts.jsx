@@ -34,22 +34,22 @@ function Contacts() {
           </div>
           <h3>FOLLOW ME</h3>
           <div className="Contacts_socialMedia">
-            <Link to="https://twitter.com/WondeAmanuel?t=2Wuj5rz3xUAxjkGVOUnX2A&s=08" style={{textDecoration:'none',color:'white'}}>
+            <Link  style={{textDecoration:'none',color:'white'}}>
               <div className="contactIcon">
                 <FacebookIcon />
               </div>
             </Link>
-            <Link style={{textDecoration:'none',color:'white'}}>
+            <Link style={{textDecoration:'none',color:'white'}} to="https://twitter.com/WondeAmanuel?t=2Wuj5rz3xUAxjkGVOUnX2A&s=08">
               <div className="contactIcon">
                 <TwitterIcon />
               </div>
             </Link>
-            <Link style={{textDecoration:'none',color:'white'}}>
+            <Link style={{textDecoration:'none',color:'white'}} to="https://www.linkedin.com/in/amanuel-wonde-358324277">
               <div className="contactIcon">
                 <LinkedInIcon />
               </div>
             </Link>
-            <Link style={{textDecoration:'none',color:'white'}}>
+            <Link style={{textDecoration:'none',color:'white'}} to="https://github.com/amanuelWonde">
               <div className="contactIcon">
                 <GitHubIcon />
               </div>

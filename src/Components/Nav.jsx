@@ -107,12 +107,12 @@ function Nav() {
           <TwitterIcon />
         </div>
           </Navlink>
-        <Navlink to= "https://twitter.com/WondeAmanuel?t=2Wuj5rz3xUAxjkGVOUnX2A&s=08" style={{textDecoration:'none',color:'white'}}>
+        <Navlink to= "https://github.com/amanuelWonde" style={{textDecoration:'none',color:'white'}}>
         <div className="Nav_icon">
         <GitHubIcon />
         </div>
         </Navlink>
-        <Navlink to= "https://twitter.com/WondeAmanuel?t=2Wuj5rz3xUAxjkGVOUnX2A&s=08" style={{textDecoration:'none',color:'white'}}>
+        <Navlink to= "https://www.linkedin.com/in/amanuel-wonde-358324277" style={{textDecoration:'none',color:'white'}}>
         <div className="Nav_icon">
         <LinkedInIcon />
         </div>
