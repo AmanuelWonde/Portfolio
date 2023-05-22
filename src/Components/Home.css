@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+}
+.Home{
+    width: 100%;
+    color: white;
+    height: 600px;
+    background-image: url("fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    position: fixed;
+    background-color: black;
+}
+.Home_header_icon{
+    margin-right: 50px;
+}
+.Nav_icon:hover{
+    color: rgb(60, 0, 255);
+    transition: .5s;
+    box-shadow: 1px 1px 20px rgba(38, 62, 199, 0.539);
+
+}
+.Home_header_list ul{
+    display: flex;
+    padding-top: 10px;
+    justify-content: space-between;
+    width: 100%;
+
+}
+.Home_header_list ul li{
+list-style: none;
+margin-right: 20px;
+font-size: 20px;
+text-decoration: none;
+cursor: pointer;
+}
+.Home_header_list ul a{
+color: white;
+text-decoration: none;
+}
+.Home_header_list ul a:hover{
+color: rgb(53, 202, 202);
+}
+.Home_header_icon{
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.Home_header_name{
+    font-size: 30px;
+font-family: sans-serif;  
+cursor: pointer;  
+}
+.Home_body{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    font-size: 30px;
+    justify-content: space-between;
+    padding: 200px 50px;
+}
+.Home_body img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 10px;
+    border-color: rgb(255, 60, 0);
+    font-size: 50px;
+    
+}
+.Home_body h2{
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+.Home_body button{
+    margin-left: 150px;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border-color:rgb(53, 158, 123) ;
+    color: rgb(53, 158, 123);
+    border: 1px;
+    background-color: rgba(0, 0, 0, 0.427);
+    margin-top: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.Home_body button:hover{
+    background-color: rgb(53, 158, 123);
+    color: white;
+
+}
+.Home_name{
+    margin-left: 40px;
+    color: rgb(7, 34, 152);
+}
+

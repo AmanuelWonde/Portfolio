@@ -1,0 +1,33 @@
+.Footer{
+width: 100%;
+background-color: #212529!important;
+color: hsla(0,0%,98%,.8)
+}
+.Footer p{
+    font-size: 18px;
+}
+.Footer small{
+    font-size: 18px;
+    color: rgb(8, 250, 250);
+}
+
+.Footer_child{
+width: 80%;
+margin: auto;
+display: flex;
+padding: 100px;
+justify-content: space-between;
+}
+.Footer_child div{
+    display: flex;
+}
+.Footer_child_privacy{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.Footer_child div hr{
+    height: 20px;
+    opacity: 0.1;
+}

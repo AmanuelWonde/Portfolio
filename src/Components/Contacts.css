@@ -1,0 +1,91 @@
+.Contacts{
+    width: 100%;
+    background-color: #343a40!important;
+    color:rgba(255, 255, 255, 0.436);
+    
+}
+.Contacts_header{
+    padding: 80px;
+}
+.Contacts_contact{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    padding: 50px 0;
+    justify-content: space-between;
+
+}
+.Contacts_header_bold{
+    font-size: 100px;
+    color: white;
+    opacity: 0.2;
+    margin-bottom: -100px;
+    text-align: center;
+}
+.Contacts_header2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+
+}
+.Contacts_socialMedia{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.Contacts_email{
+    margin-left: 100px;
+}
+.Contacts_email_input{
+    width: 600px;
+display: flex;
+}
+.Contacts_email input{
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 7px;
+    border-color: #232a31;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.569);
+}
+.Contacts_email button{
+    background-color: aqua;
+    height: 50px;
+    width: 200px;
+    border-radius: 25px;
+    border: 1px;
+    font-size: 20px;
+    counter-reset: white;
+    margin: 30px 300px;
+}
+.Contacts_email textarea{
+    border: 0;
+    width: 760px;
+    margin-left: 10px;
+    font-size: 20px;
+    height: 150px;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.792);
+    color: #fff;
+
+}
+.Contacts_adress_adress_Email{
+    display: flex;
+}
+.Contacts_adress{
+    font-size: 20px;
+}
+.Contacts_adress h3{
+    padding: 10px 0;
+    margin: 10px 0;
+}
+.Contacts h3{
+    color: white;
+
+}
+.contactIcon:hover{
+    color: rgba(0, 0, 255, 0.861);
+    transition: 0.5s;
+    box-shadow: 1px 1px 20px rgba(38, 62, 199, 0.539);
+}

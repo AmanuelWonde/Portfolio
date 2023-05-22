@@ -1,0 +1,66 @@
+
+.Summary{
+    width: 100%;
+    background-color: #212529!important;
+}
+.Summary_childWrappeer{
+width: 80%;
+display: flex;
+margin: auto;
+
+}
+.Summary_header{
+    padding: 50px;
+    
+}
+.Summary_header h2{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+.Summary_header_bold{
+    font-size: 150px;
+    text-align: center;
+    opacity: 0.1;
+    margin-bottom: -100px;
+    color: white;
+}
+.SummaryComponent{
+    width: 500px;
+    height: 200px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+margin: 20px;    
+
+}
+.SummaryComponent_childWrapper{
+    padding: 20px;
+}
+.summary_componentTopic{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+.SummaryComponent_childWrapper p{
+    color: hsla(0,0%,100%,.5)!important;
+}
+.SummaryComponent_yeare{
+width: 100px;
+text-align: center;
+    background-color: aqua;
+    border-radius: 7px;
+}
+.SummaryComponent_title{
+    font-size: 25px;
+    font-weight: bold;
+}
+.SummaryComponent_title2{
+    color: rgb(13, 100, 71);
+    font-size: 20px;
+}
+.Summary_childWrappeer{
+    padding: 50px 0;
+}
