@@ -11,7 +11,7 @@ function Home() {
         <div>
         <h2>Welcome</h2>
         <h3 className="Home_name">I'm Amauel Wonde</h3>
-        <h3>FullStack Web Developer</h3>
+        <h3>FullStack (MERN Stack) Web Developer</h3>
         <Link
             activeClass="active"
             to="contacts"

@@ -19,6 +19,8 @@ margin-bottom: -100px;
     color: white;
 }
 .Testimonia_componentWrapper{
+    width: 80%;
+    margin: auto;
     display: flex;
     padding: 50px;
     overflow-x: scroll;
@@ -37,7 +39,7 @@ margin-bottom: -100px;
     background-color: black;
     color: white;
     border-radius: 10px;
-    margin: 0 20px;
+    margin-left:20px;
 }
 .TestimonialComponent_textwrapper{
     padding: 30px;

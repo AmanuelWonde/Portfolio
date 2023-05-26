@@ -28,6 +28,9 @@ padding: 50px;
     width: 70%;
     font-size: 20px;
 }
+.about_information_paragrap h3{
+    color: rgba(0, 0, 255, 0.41);
+}
 .about_information_paragraph p{
     color: hsla(0,0%,100%,.5)!important;
 
@@ -68,6 +71,5 @@ opacity: 0.2;
 .about_information_email li {
     margin-left: 20px;
     color: hsla(0,0%,100%,.5)!important;
-
 
 }

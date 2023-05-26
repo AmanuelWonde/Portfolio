@@ -9,6 +9,13 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+h3 {
+    color: rgba(255, 255, 255, 0.641);
+}
+h2 {
+    color: rgba(255, 255, 255, 0.641);
+
+}
 .Nav{
     width: 100%;
     display: flex;
@@ -99,6 +106,6 @@ cursor: pointer;
 }
 .Home_name{
     margin-left: 40px;
-    color: rgb(7, 34, 152);
+    color: rgba(7, 152, 137, 0.83);
 }
 
